@@ -7,7 +7,7 @@
  
 ## 🗺️📍 Where to find me
 - [Linkedln👔🔗](https://www.linkedin.com/in/mallikarjun-g-396b75192/)
-- [Email✉️](mallikarjunkonemane@gmail.com)
+- mallikarjunkonemane@gmail.com📧
 - [Instagram📧📱](https://instagram.com/mallikarjun_konemane?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 - [Hashnode✍️📝](https://hashnode.com/@mallik24)
 
