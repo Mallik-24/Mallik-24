@@ -1,49 +1,36 @@
-# Hi there 👋,I'm Mallikarjun
-🌩️👩‍💻 Cloud DevOps Engineer | AWS and Open Source Enthusiast | Embracing Automation, Cloud-Native Technologies, and DevOps 🚀🤖
+# Hi there 👋, I'm Mallikarjun
 
+## 💼 About Me
+🌩️ Cloud DevOps Engineer | AWS and Open Source Enthusiast | Embracing Automation, Cloud-Native Technologies, and DevOps
 
- ## 🌱 I’m currently learning 
-![image](https://github.com/Mallik-24/Mallik-24/assets/124077143/3385d702-1285-47ff-8884-ca56aa13d63f)
+## 🌱 I'm Currently Learning 
+![AWS Learning Path](https://github.com/Mallik-24/Mallik-24/assets/124077143/3385d702-1285-47ff-8884-ca56aa13d63f)
  
-## 🗺️📍 Where to find me
-- [Linkedln👔🔗](https://www.linkedin.com/in/mallikarjun-g-396b75192/)
-- mallikarjunkonemane@gmail.com📧
-- [Instagram📧📱](https://instagram.com/mallikarjun_konemane?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
-- [Hashnode✍️📝](https://hashnode.com/@mallik24)
+## 📫 How to Reach Me
+- LinkedIn: [Mallikarjun G](https://www.linkedin.com/in/mallikarjun-g-396b75192/) 👔
+- Email: mallikarjunkonemane@gmail.com 📧
+- Instagram: [mallikarjun_konemane](https://instagram.com/mallikarjun_konemane) 📱
+- Hashnode: [@mallik24](https://hashnode.com/@mallik24) ✍️
 
-## My Recent Projects🏗️🔨
- - ### 🌐🚀 Comprehensive AWS EKS Cluster Monitoring with Prometheus, Grafana, and EFK Stack 📈📊
+## 🚀 Recent Projects
+### AWS EKS Cluster Monitoring Solution
 
-This project is a step-by-step guide on how to monitor AWS Elastic Kubernetes Service (EKS) clusters using powerful tools like Prometheus, Grafana, and the EFK (Elasticsearch, Fluentd, Kibana) stack. 📈📊
+A comprehensive monitoring setup for AWS Elastic Kubernetes Service (EKS) clusters using Prometheus, Grafana, and EFK Stack.
 
-![aws (3) pdf (2)](https://github.com/Mallik-24/Mallik-24/assets/124077143/114a92c7-f758-41cb-a3e9-f0a36dbe54e4)
+![Architecture Diagram](https://github.com/Mallik-24/Mallik-24/assets/124077143/114a92c7-f758-41cb-a3e9-f0a36dbe54e4)
 
+#### Key Features:
+- ⚡ Real-time cluster performance monitoring
+- 📊 Resource utilization tracking and bottleneck identification
+- 🔍 Container and application log monitoring
+- 📈 Cluster health and availability insights
+- 🛠️ Proactive system optimization
 
-The monitoring setup empowers you to:
+#### Documentation
+- [Read the full guide on Hashnode](https://devo.hashnode.dev/comprehensive-aws-eks-cluster-monitoring-with-prometheus-grafanaand-efk-stack-10weeksofcloudops)
 
-- 🕐 Track cluster performance in real-time for quick insights.
-- 📊 Monitor resource utilization and identify bottlenecks to optimize efficiency.
-- 🗃️ Monitor containerized applications and logs for enhanced troubleshooting.
-- 📈 Gain insights into cluster health and availability to ensure stability.
-- 🔍 Improve overall system reliability and performance with proactive monitoring.
-
-  ## Blog Link✍️📝
--  https://devo.hashnode.dev/comprehensive-aws-eks-cluster-monitoring-with-prometheus-grafanaand-efk-stack-10weeksofcloudops
-
-## I would love to😊🌟:
-
-- 🌐 Exploring cutting-edge technologies.
-- 📚 Learning more and staying updated.
-- 🗣️ Talking about other awesome things.
-- 💻 Engaging in tech discussions.
-
-
-
-
-
-
-
-
-
-
- 
+## 💡 I'm Open To
+- 🤝 Collaborating on DevOps and Cloud projects
+- 🌱 Learning new technologies
+- 💬 Discussing cloud architecture and automation
+- 👥 Connecting with fellow tech enthusiasts
