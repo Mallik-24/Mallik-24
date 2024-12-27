@@ -1,5 +1,5 @@
 # Hi there 👋,I'm Mallikarjun
-🌩️👩‍💻 Aspiring Cloud DevOps Engineer | AWS Enthusiast | Embracing Automation, Cloud-Native Technologies, and DevOps 🚀🤖
+🌩️👩‍💻 Cloud DevOps Engineer | AWS and Open Source Enthusiast | Embracing Automation, Cloud-Native Technologies, and DevOps 🚀🤖
 
 
  ## 🌱 I’m currently learning 
