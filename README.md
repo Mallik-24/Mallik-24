@@ -13,7 +13,7 @@
 - Hashnode: [@mallik24](https://hashnode.com/@mallik24) ✍️
 
 ## 🚀 Recent Projects
-### AWS EKS Cluster Monitoring Solution
+### AWS EKS Cluster Monitoring Observability
 
 A comprehensive monitoring setup for AWS Elastic Kubernetes Service (EKS) clusters using Prometheus, Grafana, and EFK Stack.
 
